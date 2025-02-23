@@ -1,8 +1,9 @@
 # beats_externship
 This repository contains the project work to gain insight into costumer reviews on Beats products and its competitors. This project was completed as part of the Beats by Dre Consumer Insights Data Analytics Externship, facilitated by Extern. The primary objective was to analyze consumer reviews using sentiment analysis, natural language processing (NLP), and exploratory data analysis (EDA) to derive strategic insights for brand development.
+
 Key Contributions
 🔹 Programming & Data Science
-Developed Python-based data analysis pipelines leveraging pandas, NumPy, and scikit-learn.
+    	  Developed Python-based data analysis pipelines leveraging pandas, NumPy, and scikit-learn.
 Employed NLP techniques to process and analyze consumer feedback efficiently.
 🔹 Exploratory Data Analysis (EDA)
 Conducted data cleaning and preprocessing to handle missing values, outliers, and text normalization.
